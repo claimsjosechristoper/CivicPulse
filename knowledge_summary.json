@@ -1,0 +1,96 @@
+{
+  "polls": {
+    "count": 410,
+    "sample": {
+      "poll_id": "84608",
+      "pollster_id": "1361",
+      "pollster": "SSRS",
+      "sponsor_ids": "143",
+      "sponsors": "CNN",
+      "display_name": "SSRS",
+      "pollster_rating_id": "297",
+      "pollster_rating_name": "SSRS",
+      "fte_grade": "C+",
+      "methodology": "Probability Panel",
+      "transparency_score": "10.0",
+      "state": "",
+      "start_date": "10/27/23",
+      "end_date": "11/2/23",
+      "sponsor_candidate_id": "",
+      "sponsor_candidate": "",
+      "sponsor_candidate_party": "",
+      "question_id": "185126",
+      "sample_size": "1271",
+      "population": "rv",
+      "subpopulation": "",
+      "population_full": "rv",
+      "tracking": "",
+      "created_at": "11/7/23 21:18",
+      "notes": "",
+      "url": "https://www.cnn.com/2023/11/07/politics/cnn-poll-trump-biden-matchup/index.html",
+      "source": "",
+      "internal": "",
+      "partisan": "",
+      "race_id": "9549",
+      "cycle": "2024",
+      "office_type": "U.S. House",
+      "seat_number": "",
+      "seat_name": "Generic",
+      "election_date": "11/5/24",
+      "stage": "general",
+      "nationwide_batch": "false",
+      "dem": "47.0",
+      "rep": "48.0",
+      "ind": ""
+    }
+  },
+  "other": {
+    "count": 30,
+    "sample": {
+      "race": "1980D",
+      "state": "California",
+      "modeldate": "1979-10-23",
+      "candidate_name": "Jimmy Carter",
+      "candidate_id": "467",
+      "pct_estimate": "21.80135",
+      "pct_trend_adjusted": "22.59785",
+      "timestamp": "12/10/19 16:26",
+      "comment": "one day test",
+      "contestdate": "1980-06-03"
+    }
+  },
+  "approval": {
+    "count": 40,
+    "sample": {
+      "politician/institution": "Congress",
+      "date": "2024-04-17",
+      "answer": "Approve",
+      "pct_estimate": "19.811602834982644",
+      "lo": "13.068704149493353",
+      "hi": "26.554501520471934"
+    }
+  },
+  "candidates": {
+    "count": 10,
+    "sample": {
+      "﻿party": "democrat",
+      "name": "Dean Phillips",
+      "date_announced": "10/26/2023",
+      "date_withdrawn": "3/6/2024"
+    }
+  },
+  "india": {
+    "count": 10,
+    "sample": {
+      "S.N": "1",
+      "Candidate": "BISHNU PADA RAY",
+      "Party": "Bharatiya Janata Party",
+      "EVM Votes": "102182",
+      "Postal Votes": "254",
+      "Total Votes": "102436",
+      "% of Votes": "50.58",
+      "State": "Andaman & Nicobar Islands",
+      "Constituency": "Andaman & Nicobar Islands - 1"
+    }
+  }
+}
