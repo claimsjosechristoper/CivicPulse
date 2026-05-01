@@ -166,3 +166,4 @@ I'm here to help you prepare for the upcoming election.
 Let's start: Are you registered to vote? (yes/no)
 
 You: no
+```
